@@ -1,5 +1,8 @@
 ---
 title: Sascha M.B. Krause
+
+superuser: true
+
 authors:
 - admin
 bio: Microbial ecologist interested in cutting edge research projects that benefit the environment and society. 
