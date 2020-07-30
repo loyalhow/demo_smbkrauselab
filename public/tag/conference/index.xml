@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | SMB Krause Lab</title>
+    <link>https://loyalhow.github.io/tag/conference/</link>
+      <atom:link href="https://loyalhow.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loyalhow.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Conference</title>
+      <link>https://loyalhow.github.io/tag/conference/</link>
+    </image>
+    
+    <item>
+      <title>4th Thünen Symposium on Soil Metagenomics: Scientific board member</title>
+      <link>https://loyalhow.github.io/post/scientific-board-member-thuenen-symposium/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/post/scientific-board-member-thuenen-symposium/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.soil-metagenomics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;updates&lt;/strong&gt;&lt;/a&gt; about the conference in December.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

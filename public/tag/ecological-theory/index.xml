@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecological theory | SMB Krause Lab</title>
+    <link>https://loyalhow.github.io/tag/ecological-theory/</link>
+      <atom:link href="https://loyalhow.github.io/tag/ecological-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ecological theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loyalhow.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ecological theory</title>
+      <link>https://loyalhow.github.io/tag/ecological-theory/</link>
+    </image>
+    
+    <item>
+      <title>Trait-based approaches for understanding microbial biodiversity and ecosystem functioning</title>
+      <link>https://loyalhow.github.io/publication/krause-et-al-2014a/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/krause-et-al-2014a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing functional traits and ecological characteristics of methane‐oxidizing bacteria as life strategies</title>
+      <link>https://loyalhow.github.io/publication/ho-et-al-2012/</link>
+      <pubDate>Fri, 20 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/ho-et-al-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biogeography of wetland rice methanotrophs</title>
+      <link>https://loyalhow.github.io/publication/lueke-et-al-2009/</link>
+      <pubDate>Mon, 29 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/lueke-et-al-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

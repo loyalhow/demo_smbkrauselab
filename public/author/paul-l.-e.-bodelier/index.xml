@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul L. E. Bodelier | SMB Krause Lab</title>
+    <link>https://loyalhow.github.io/author/paul-l.-e.-bodelier/</link>
+      <atom:link href="https://loyalhow.github.io/author/paul-l.-e.-bodelier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul L. E. Bodelier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loyalhow.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Paul L. E. Bodelier</title>
+      <link>https://loyalhow.github.io/author/paul-l.-e.-bodelier/</link>
+    </image>
+    
+    <item>
+      <title>Environmental legacy contributes to the resilience of methane consumption in a laboratory microcosm system</title>
+      <link>https://loyalhow.github.io/publication/krause-et-al-2018/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/krause-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing functional traits and ecological characteristics of methane‐oxidizing bacteria as life strategies</title>
+      <link>https://loyalhow.github.io/publication/ho-et-al-2012/</link>
+      <pubDate>Fri, 20 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/ho-et-al-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of Inter- and Intralaboratory Variations on the Reproducibility of Microbial Community Analyses</title>
+      <link>https://loyalhow.github.io/publication/pan-et-al-2010/</link>
+      <pubDate>Fri, 05 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/pan-et-al-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

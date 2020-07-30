@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methylotrophy | SMB Krause Lab</title>
+    <link>https://loyalhow.github.io/tag/methylotrophy/</link>
+      <atom:link href="https://loyalhow.github.io/tag/methylotrophy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methylotrophy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loyalhow.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Methylotrophy</title>
+      <link>https://loyalhow.github.io/tag/methylotrophy/</link>
+    </image>
+    
+    <item>
+      <title>A Synthetic Ecology Perspective: How Well Does Behavior of Model Organisms in the Laboratory Predict Microbial Activities in Natural Habitats?</title>
+      <link>https://loyalhow.github.io/publication/zheng-et-al-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/zheng-et-al-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefano Cavigiolo | SMB Krause Lab</title>
+    <link>https://loyalhow.github.io/author/stefano-cavigiolo/</link>
+      <atom:link href="https://loyalhow.github.io/author/stefano-cavigiolo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefano Cavigiolo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Mar 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loyalhow.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Stefano Cavigiolo</title>
+      <link>https://loyalhow.github.io/author/stefano-cavigiolo/</link>
+    </image>
+    
+    <item>
+      <title>Biogeography of wetland rice methanotrophs</title>
+      <link>https://loyalhow.github.io/publication/lueke-et-al-2009/</link>
+      <pubDate>Mon, 29 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/lueke-et-al-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

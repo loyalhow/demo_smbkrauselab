@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anne-Grethe Hestnes | SMB Krause Lab</title>
+    <link>https://loyalhow.github.io/author/anne-grethe-hestnes/</link>
+      <atom:link href="https://loyalhow.github.io/author/anne-grethe-hestnes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anne-Grethe Hestnes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loyalhow.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Anne-Grethe Hestnes</title>
+      <link>https://loyalhow.github.io/author/anne-grethe-hestnes/</link>
+    </image>
+    
+    <item>
+      <title>Impacts of Inter- and Intralaboratory Variations on the Reproducibility of Microbial Community Analyses</title>
+      <link>https://loyalhow.github.io/publication/pan-et-al-2010/</link>
+      <pubDate>Fri, 05 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/pan-et-al-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

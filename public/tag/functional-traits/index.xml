@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functional traits | SMB Krause Lab</title>
+    <link>https://loyalhow.github.io/tag/functional-traits/</link>
+      <atom:link href="https://loyalhow.github.io/tag/functional-traits/index.xml" rel="self" type="application/rss+xml" />
+    <description>Functional traits</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loyalhow.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Functional traits</title>
+      <link>https://loyalhow.github.io/tag/functional-traits/</link>
+    </image>
+    
+    <item>
+      <title>Recurrence and Frequency of Disturbance have Cumulative Effect on Methanotrophic Activity, Abundance, and Community Structure</title>
+      <link>https://loyalhow.github.io/publication/ho-et-al-2016/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/ho-et-al-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trait-based approaches for understanding microbial biodiversity and ecosystem functioning</title>
+      <link>https://loyalhow.github.io/publication/krause-et-al-2014a/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/krause-et-al-2014a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing functional traits and ecological characteristics of methane‐oxidizing bacteria as life strategies</title>
+      <link>https://loyalhow.github.io/publication/ho-et-al-2012/</link>
+      <pubDate>Fri, 20 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://loyalhow.github.io/publication/ho-et-al-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
