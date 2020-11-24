@@ -15,9 +15,6 @@ education:
   - course: Bachelor of Engineering in Chemical Engineering
     institution: East China University of Science and Technology, China
     year: 2011
-  - course: Bachelor of Science in Environmental Engineering
-    institution: Shandong University of Technology, China
-    year: 2018
 email: ""
 interests:
 - Microbial Ecology
@@ -26,7 +23,7 @@ name: "Hao Liu"
 organizations:
 - name: East China Normal University
   url: ""
-role: Research Assistant
+role: Research Assistant / Lab Manager
 superuser: true
 user_groups:
 - Research Assistants
